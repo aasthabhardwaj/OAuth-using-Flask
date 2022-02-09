@@ -11,4 +11,6 @@ Edit the python file after cloning it and add GITHUB_CLIENT_ID and GITHUB_CLIENT
 
 Command -> python file2.py
 
+Homepage URL -> http://127.0.0.1:5000
+
 ## Make sure to unistall flask first 
