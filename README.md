@@ -7,6 +7,8 @@ GitHub-Flask is available on PyPI:
 Command -> pip install github-flask
 
 # Usage
-An example application is provided. Getting it up and running should be pretty straightforward. Edit example.py and change GITHUB_CLIENT_ID and GITHUB_CLIENT_SECRET settings. Then run the sample application to see how it's working:
+Edit the python file after cloning it and add GITHUB_CLIENT_ID and GITHUB_CLIENT_SECRET settings. Then run the sample application to see how it's working:
 
 Command -> python file.py
+
+## Make sure to unistall flask first 
